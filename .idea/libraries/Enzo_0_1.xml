@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Enzo-0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../enzo/build/libs/Enzo-0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

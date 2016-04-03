@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AirSeries-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../airseries/build/libs/AirSeries-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
